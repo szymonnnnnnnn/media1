@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pl">
 
-You can use the [editor on GitHub](https://github.com/szymonnnnnnnn/media1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+<meta charset="utf-8" />
+<title>Moje Social Media</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome,internet,Opera Gx=1" />
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<link rel="stylesheet" href="body.css" type="text/css" />
+</head>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<body>
+    <h1>zapraszam do obserwowania mnie na moich Social Mediach :) z góry dzięki</h1>
 
-```markdown
-Syntax highlighted code block
+    <a href="https://www.youtube.com/channel/UCWSPaIZ_QWgj1HZNOIhMeaQ">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/YouTube_social_white_squircle_%282017%29.svg/220px-YouTube_social_white_squircle_%282017%29.svg.png" />
 
-# Header 1
-## Header 2
-### Header 3
+    </a>
 
-- Bulleted
-- List
+<br></body>
 
-1. Numbered
-2. List
+<a href="https://www.instagram.com/jank0___________0/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Instagram.svg/220px-Instagram.svg.png" />
+</a>
 
-**Bold** and _Italic_ and `Code` text
+<br></br>
 
-[Link](url) and ![Image](src)
-```
+<a href="https://www.twitch.tv/ezkjj0_0">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/220px-Twitch_Glitch_Logo_Purple.svg.png" />
+</a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<br></br>
 
-### Jekyll Themes
+😎😎❤
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/szymonnnnnnnn/media1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+
+</html>
